@@ -6,11 +6,11 @@ At **HFT Consultancy**, we excel in providing innovative and efficient liquidity
 
 We specialize in **high-frequency trading (HFT)**, utilizing sophisticated trading algorithms and state-of-the-art financial technology to ensure our clients achieve superior performance and maintain a competitive edge. Our key areas of expertise include:
 
-- **High-Frequency Trading (HFT)**
-- **Advanced Trading Algorithms**
-- **State-of-the-Art Financial Technology**
-- **Efficient Liquidity Solutions**
-- **Market-Making Strategies**
+- 🚀 **High-Frequency Trading (HFT)**
+- 🤖 **Advanced Trading Algorithms**
+- 💻 **State-of-the-Art Financial Technology**
+- 💰 **Efficient Liquidity Solutions**
+- 📈 **Market-Making Strategies**
 
 ## Why Partner with HFT Consultancy?
 
@@ -20,30 +20,30 @@ Partner with us to experience the difference in trading efficiency, security, an
 
 Here are some of the recent projects that showcase our capabilities:
 
-- **KDB+ Tick Plant Engine**: Fast, efficient, PnL Vector, VaR, accurate trade execution.
-- **Ultra-Low Latency Trading**: IP Cores Ethernet MAC, TCP, UDP, LOB, and Market Making on Alveo X series and UL3524.
-- **Cyber Security**: Fortinet firewall's features for HFT including ATP, DPI, IPS, STP.
-- **HFT Servers**: 1+TB DDR5 RAM, Gen5 PCIe slots, redundant high-efficiency power supplies.
+- ⚡ **KDB+ Tick Plant Engine**: Fast, efficient, PnL Vector, VaR, accurate trade execution.
+- 🏎️ **Ultra-Low Latency Trading**: IP Cores Ethernet MAC, TCP, UDP, LOB, and Market Making on Alveo X series and UL3524.
+- 🔐 **Cyber Security**: Fortinet firewall's features for HFT including ATP, DPI, IPS, STP.
+- 🖥️ **HFT Servers**: 1+TB DDR5 RAM, Gen5 PCIe slots, redundant high-efficiency power supplies.
 
 ## Our Office Space in Santo Domingo
 
 We provide our team and clients with a top-notch environment:
 
-- **24-Hour Security** for peace of mind
-- **Luxury Pool** for relaxation
-- **State-of-the-Art Gym Facilities**
-- **Highly Available Internet Connectivity**
-- **Ultra-Fast Internet Speed**
+- 🛡️ **24-Hour Security** for peace of mind
+- 🏊 **Luxury Pool** for relaxation
+- 🏋️ **State-of-the-Art Gym Facilities**
+- 🌐 **Highly Available Internet Connectivity**
+- 🚀 **Ultra-Fast Internet Speed**
 
 ## Industry-Leading HFT Solutions
 
 Contact **HFT Consultancy** for industry-leading solutions in high-frequency trading (HFT). We specialize in high-performance accelerators, optimized IP cores, advanced security enhancements, network optimization, and sophisticated HFT modeling. Our services include:
 
-- **Developing and optimizing IP cores** for unparalleled performance.
-- **In-house custom PCB Design**: Value for money and low-latency.
-- **Implementing robust security measures** to protect your trading infrastructure.
-- **Enhancing network performance** for ultra-low latency trading.
-- **Modeling complex trading strategies** with precision and efficiency.
+- ⚙️ **Developing and optimizing IP cores** for unparalleled performance.
+- 🛠️ **In-house custom PCB Design**: Value for money and low-latency.
+- 🛡️ **Implementing robust security measures** to protect your trading infrastructure.
+- 📶 **Enhancing network performance** for ultra-low latency trading.
+- 🎯 **Modeling complex trading strategies** with precision and efficiency.
 
 ## Get In Touch
 
@@ -51,11 +51,12 @@ Reach out to us today to discover how our cutting-edge technology and expert gui
 
 **Contact Information:**
 
-- **Website:** [HFT Consultancy on X](https://x.com/@HFTConsultancy)
-- **Address:** Ave. Tiradentes esq, Santo Domingo, 10124, Dominican Republic
-- **Phone:** +1 849-492-4624
-- **General Inquiries:** [info@hftconsultancy.com](mailto:info@hftconsultancy.com)
-- **Sales:** [sales@hftconsultancy.com](mailto:sales@hftconsultancy.com)
+- 🌐 **Website:** [www.hftconsultancy.com](https://www.hftconsultancy.com)
+- 🐦 **Twitter:** [HFT Consultancy on Twitter](https://twitter.com/@HFTConsultancy)
+- 📍 **Address:** Ave. Tiradentes esq, Santo Domingo, 10124, Dominican Republic
+- 📞 **Phone:** +1 849-492-4624
+- 📧 **General Inquiries:** [info@hftconsultancy.com](mailto:info@hftconsultancy.com)
+- 💼 **Sales:** [sales@hftconsultancy.com](mailto:sales@hftconsultancy.com)
 
 ---
 
