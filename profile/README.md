@@ -47,15 +47,16 @@ Contact **HFT Consultancy** for industry-leading solutions in high-frequency tra
 
 ## Get In Touch
 
-Reach out to us today to discover how our cutting-edge technology and expert guidance can help you achieve your HFT goals.
+Reach out to us today to discover how our cutting-edge technology and expert guidance can help you achieve your HFT goals. Whether you are looking for more information or ready to start a project, our team is here to assist you.
 
 **Contact Information:**
 
+- **Website:** [HFT Consultancy on X](https://x.com/@HFTConsultancy)
 - **Address:** Ave. Tiradentes esq, Santo Domingo, 10124, Dominican Republic
 - **Phone:** +1 849-492-4624
-- **Email:** info@hftconsultancy.com
+- **General Inquiries:** [info@hftconsultancy.com](mailto:info@hftconsultancy.com)
+- **Sales:** [sales@hftconsultancy.com](mailto:sales@hftconsultancy.com)
 
 ---
 
 © 2024 HFT Consultancy. All rights reserved.
-
